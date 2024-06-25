@@ -8,8 +8,12 @@
 
 - PG52690 José Pedro Gomes Ferreira
 
----
 
-Para correr a aplicação em modo release para Android, correr o seguinte comando:
+Este projeto consiste no desenvolvimento de uma aplicação móvel multi-plataforma usando React Native, destinada a funcionar como um guia turístico chamado "BraGuia". A aplicação oferece funcionalidades de localização, navegação por roteiros turísticos, reprodução de mídia relacionada a pontos de interesse, entre outras.
 
-> adb install android/app/build/outputs/apk/release/app-release.apk
+## Objetivos
+- Desenvolver uma aplicação multi-plataforma usando React Native.
+- Integrar funcionalidades de localização e navegação geográfica.
+- Consumir dados de um backend específico para o projeto.
+- Oferecer experiência intuitiva e de qualidade para o usuário.
+- Maximizar o uso de código multi-plataforma.
